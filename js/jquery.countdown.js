@@ -32,7 +32,7 @@
 			
 			// Time left
 			//console.log(new Date("February 11, 2018 11:15:00"));
-			left = Math.floor((new Date("February 11, 2018 11:15:00") - (new Date())) / 1000);
+			left = Math.floor((new Date("February 16, 2018 19:00:00") - (new Date())) / 1000);
 			//console.log(left);
 			if(left < 0){
 				left = 0;
